@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group 'CourseraJavaGroupID'
+version '1.0-SNAPSHOT'
+
+mainClassName = 'Main'
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile 'joda-time:joda-time:2.9.4'
+    compile fileTree(dir: 'libs', include: '*.jar')
+}
+
