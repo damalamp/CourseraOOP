@@ -57,5 +57,4 @@ public class TwoKeysDecrypt {
         FileResource fileR = new FileResource("ReferenceData/Course2Week1CaesarCipher/PracticeBreakingCaesarData/mysteryTwoKeysPractice.txt");
         doubleDecryption(fileR.asString());
     }
-
 }

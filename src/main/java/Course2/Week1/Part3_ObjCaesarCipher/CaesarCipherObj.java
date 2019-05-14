@@ -15,6 +15,16 @@ public class CaesarCipherObj {
         shiftedLowerAlphabet = shiftedUpperAlphabet.toLowerCase();
     }
 
+    public CaesarCipherObj() {
+    }
+
+    public CaesarCipherObj(String upperAlphabet, String shiftedUpperAlphabet, String lowerAlphabet, String shiftedLowerAlphabet) {//with all initial values
+        this.upperAlphabet = upperAlphabet;
+        this.shiftedUpperAlphabet = shiftedUpperAlphabet;
+        this.lowerAlphabet = lowerAlphabet;
+        this.shiftedLowerAlphabet = shiftedLowerAlphabet;
+    }
+
     public String encrypt(String input){ //largely same as Course2.Week1.Part1_ImplCaesarCipher.CaesarCipher.encrypt
         StringBuilder encrypted = new StringBuilder(input);
         for (int i = 0; i < input.length(); i++) {
@@ -33,5 +43,37 @@ public class CaesarCipherObj {
         CaesarCipherObj seesee = new CaesarCipherObj(2);
         String answer = seesee.encrypt("ABC How bout dat!");
         System.out.println("encrypted: " + answer);
+    }
+
+    public String getUpperAlphabet() {
+        return upperAlphabet;
+    }
+
+    public void setUpperAlphabet(String upperAlphabet) {
+        this.upperAlphabet = upperAlphabet;
+    }
+
+    public String getShiftedUpperAlphabet() {
+        return shiftedUpperAlphabet;
+    }
+
+    public void setShiftedUpperAlphabet(String shiftedUpperAlphabet) {
+        this.shiftedUpperAlphabet = shiftedUpperAlphabet;
+    }
+
+    public String getLowerAlphabet() {
+        return lowerAlphabet;
+    }
+
+    public void setLowerAlphabet(String lowerAlphabet) {
+        this.lowerAlphabet = lowerAlphabet;
+    }
+
+    public String getShiftedLowerAlphabet() {
+        return shiftedLowerAlphabet;
+    }
+
+    public void setShiftedLowerAlphabet(String shiftedLowerAlphabet) {
+        this.shiftedLowerAlphabet = shiftedLowerAlphabet;
     }
 }
