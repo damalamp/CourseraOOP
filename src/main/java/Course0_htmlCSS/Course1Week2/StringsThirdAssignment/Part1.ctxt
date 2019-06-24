@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Part1
+comment1.params=dna\ atgIndex\ endCodon
+comment1.target=java.lang.Integer\ findEndCodon(java.lang.String,\ java.lang.Integer,\ java.lang.String)
+comment2.params=dna\ start
+comment2.target=java.lang.Integer\ minGeneEnd(java.lang.String,\ java.lang.Integer)
+comment3.params=dna\ atgIndex
+comment3.target=java.lang.String\ findGene(java.lang.String,\ java.lang.Integer)
+comment4.params=dna
+comment4.target=edu.duke.StorageResource\ findGenes(java.lang.String)
+comment5.params=mainString\ searchString
+comment5.target=java.lang.Integer\ timesStringFound(java.lang.String,\ java.lang.String)
+comment6.params=dna
+comment6.target=float\ cgRatio(java.lang.String)
+comment7.params=
+comment7.target=void\ processGenes()
+comment7.text=\n\ \ \ public\ void\ testFindGenes()\ {\n\ \ \ \ \ \ \ \ String\ dna\ \=\ "AATGCTAACTAGCTGACTAAT";\n\ \ \ \ \ \ \ \ StorageResource\ genes\ \=\ findGenes(dna);\n\ \ \ \ \ \ \ \ //System.out.println("Genes\ \=\ ");\n\ \ \ \ \ \ \ \ for\ (String\ s\ \:\ genes.data())\ {\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ //System.out.println("gene\:\ "\ +\ s);\n\ \ \ \ \ \ \ \ }\n\ \ \ }\n
+comment8.params=
+comment8.target=void\ testcgRatio()
+comment9.params=
+comment9.target=void\ testProcessGenes()
+numComments=10

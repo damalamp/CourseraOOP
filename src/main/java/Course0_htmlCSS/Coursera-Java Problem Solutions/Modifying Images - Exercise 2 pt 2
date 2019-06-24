@@ -1,0 +1,27 @@
+// write your code here
+
+//var img = new SimpleImage("duke_blue_devil.png");
+var img = new SimpleImage("pixabayhands.jpg");
+print(img);
+for (var pixel of img.values()){
+    pixel = swapRedGreen(pixel);
+}
+print(img);
+
+function swapRedGreen(pixy){
+    var redCache = pixy.getRed();
+    pixy.setRed(pixy.getGreen());
+    pixy.setGreen(redCache);
+    return pixy
+}
+
+/*var newbie = new SimpleImage(200,200);
+//print(newbie);
+for (var pixy of newbie.values()){
+    pixy.setRed(255);
+    pixy.setGreen(255);
+    pixy.setBlue(0);
+    //print(1);
+}
+print(newbie);
+*/

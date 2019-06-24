@@ -54,7 +54,9 @@ public class TwoKeysDecrypt {
 
     public static void testDoubleDecrypt(){
         //doubleDecryption("Akag tjw Xibhr awoa aoee xakex znxag xwko");
-        FileResource fileR = new FileResource("ReferenceData/Course2Week1CaesarCipher/PracticeBreakingCaesarData/mysteryTwoKeysPractice.txt");
+        FileResource fileR = new FileResource("ReferenceData/Course2Week1CaesarCipher/mysteryTwoKeysQuiz.txt");
         doubleDecryption(fileR.asString());
+        //doubleDecryption("Aal uttx hm aal Qtct Fhljha pl Wbdl. Pvxvxlx!");
     }
+
 }

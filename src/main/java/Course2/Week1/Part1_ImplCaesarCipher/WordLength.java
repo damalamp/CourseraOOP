@@ -10,8 +10,9 @@ public class WordLength {
         boolean lastWasLetter = true;
         int offset = 0;
         for(String word:resource.words()){
-            System.out.println("word: " + word);
+            System.out.println("length: " + word.length());
             if (Character.isLetter(word.charAt(word.length()-1))) {
+                System.out.println("length: " + word.length());
                 counts[word.length()]++;
             } else {
                 counts[word.length()-1]++;
@@ -47,7 +48,8 @@ public class WordLength {
     }
 
     public static void testCountWordLengths(){
-        FileResource fileR = new FileResource("ReferenceData/Course2Week1CesarCypher/PracticeBreakingCaesarData/lotsOfWords.txt");
+        //FileResource fileR = new FileResource("ReferenceData/Course2Week1CaesarCipher/manywords.txt");
+        FileResource fileR = new FileResource("ReferenceData/Course2Week1CaesarCipher/errors.txt");
         int[] counts = new int[31];
         System.out.println(Arrays.toString(countWordLengths(fileR, counts)));
     }

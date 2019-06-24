@@ -1,0 +1,109 @@
+/**
+ * Finds a protein within a strand of DNA represented as a string of c,g,t,a letters.
+ * A protein is a part of the DNA strand marked by start and stop codons (DNA triples)
+ * that is a multiple of 3 letters long.
+ *
+ * @author Duke Software Team
+ */
+import edu.duke.*;
+import java.io.*;
+import java.lang.Math.*;
+
+public class Part1TagFinder {
+public Integer findEndCodon(String dna, Integer atgIndex, String endCodon){
+        Integer foundIndex = atgIndex + 3;
+        while (true) {
+                foundIndex = dna.indexOf(endCodon, foundIndex);
+                if (foundIndex == -1) {
+                        //System.out.println("entered -1 loop");
+                        return dna.length()+1;
+                }
+                if ((foundIndex-atgIndex)%3 == 0) {
+                        //System.out.println("entered mod3==0 if");
+                        return foundIndex;
+                }
+                foundIndex++;
+                //System.out.println("whiling again. ");
+        }
+}
+
+public Integer minProteinEnd(String dna, Integer atgIndex){
+        Integer tagIndex = findEndCodon(dna, atgIndex, "tag");
+        Integer taaIndex = findEndCodon(dna, atgIndex, "taa");
+        Integer tgaIndex = findEndCodon(dna, atgIndex, "tga");
+
+        Integer minEnd = Math.min(tagIndex,taaIndex);
+        return Math.min(minEnd, tgaIndex);
+}
+
+public String findProtein(String dna, Integer atgIndex) {
+        int start = dna.indexOf("atg", atgIndex);
+        if (start == -1) {
+                return "";
+        }
+
+        Integer minEnd = minProteinEnd(dna, atgIndex);
+
+              if (minEnd > dna.length()) {
+                return "";
+        }
+        return dna.substring(start, minEnd+3);
+}
+
+public void printProteins(String dna){
+        Integer startIndex = 0;
+        while(true) {
+                if (findProtein(dna,startIndex).length() == 0) {
+                        break;
+                }
+                System.out.println("DNA: "+ findProtein(dna,startIndex));
+                startIndex = minProteinEnd(dna,startIndex);
+
+        }
+}
+
+public void testing() {
+        String a = "cccatggggtttaaataataataggagagagagagagagttt";
+        String ap = "atggggtttaaataataatag";
+        //String a = "atgcctag";
+        //String ap = "";
+        //String a = "ATGCCCTAG";
+        //String ap = "ATGCCCTAG";
+
+        String result = findProtein(a, 1);
+        if (ap.equals(result)) {
+                System.out.println("success for " + ap + " length " + ap.length());
+        }
+        else {
+                System.out.println("mistake for input: " + a);
+                System.out.println("got: " + result);
+                System.out.println("not: " + ap);
+        }
+}
+
+public void realTesting() {
+        DirectoryResource dr = new DirectoryResource();
+        for (File f : dr.selectedFiles()) {
+                FileResource fr = new FileResource(f);
+                String s = fr.asString();
+                System.out.println("read " + s.length() + " characters");
+                String result = findProtein(s, 1);
+                System.out.println("found " + result);
+        }
+}
+
+public void testFindingEndCodon() {
+    /*
+    String dna = "atgtaa";
+    System.out.println("index = " + findEndCodon(dna,1, "taa"));
+    dna = "atgataa";
+    System.out.println("index = " + findEndCodon(dna,1, "taa"));
+    dna = "atg1taabbbcccdetaabbbcccdddtaa1taa1taa1taa";
+    System.out.println("index = " + findEndCodon(dna,7, "taa"));
+    */
+    String dna = "atg111FIRST1222333taaatgSECONDtgaatg2223331taa2taa3THIRD1taaENDSTUFF";
+    System.out.println("Proteins = ");
+    printProteins(dna);
+
+}
+}

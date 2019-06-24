@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Part2StringCounter
+comment1.params=mainString\ searchString
+comment1.target=java.lang.Integer\ timesStringFound(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ testCountingStrings()
+numComments=3

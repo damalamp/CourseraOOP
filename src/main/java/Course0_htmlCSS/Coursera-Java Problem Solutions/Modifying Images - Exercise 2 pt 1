@@ -1,0 +1,32 @@
+// write your code here
+
+var img = new SimpleImage("usain.jpg");
+var firstThird = Math.ceil(img.getWidth()/3);
+var secondThird = firstThird*2;
+//print(img.values());
+for (var pixel of img.values()){
+    if (pixel.getX() > secondThird) {
+        var newG = 255 - pixel.getGreen();
+        pixel.setBlue(255);
+    }
+    else if (pixel.getX() < firstThird){
+        pixel.setRed(255);
+    }
+    else {
+        pixel.setGreen(255);
+
+    }
+}
+print(img);
+
+
+/*var newbie = new SimpleImage(200,200);
+//print(newbie);
+for (var pixy of newbie.values()){
+    pixy.setRed(255);
+    pixy.setGreen(255);
+    pixy.setBlue(0);
+    //print(1);
+}
+print(newbie);
+*/

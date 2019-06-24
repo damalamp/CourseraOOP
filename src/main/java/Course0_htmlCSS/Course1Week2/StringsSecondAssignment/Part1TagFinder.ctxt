@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Part1TagFinder
+comment1.params=dna\ atgIndex\ endCodon
+comment1.target=java.lang.Integer\ findEndCodon(java.lang.String,\ java.lang.Integer,\ java.lang.String)
+comment2.params=dna\ atgIndex
+comment2.target=java.lang.Integer\ minProteinEnd(java.lang.String,\ java.lang.Integer)
+comment3.params=dna\ atgIndex
+comment3.target=java.lang.String\ findProtein(java.lang.String,\ java.lang.Integer)
+comment4.params=dna
+comment4.target=void\ printProteins(java.lang.String)
+comment5.params=
+comment5.target=void\ testFindingEndCodon()
+numComments=6
