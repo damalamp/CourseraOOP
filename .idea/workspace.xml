@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b80c1159-0e47-4599-9e46-6194b2e4a362" name="Default Changelist" comment="Ceaser Cipher Progress">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Course2/Week2/Part2/CodonCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Course2/Week2/Part2/CodonCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -43,7 +50,7 @@
         <counts>
           <entry key="CLASS" value="5" />
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="61" />
+          <entry key="JAVA" value="62" />
           <entry key="JavaScript" value="1" />
           <entry key="PLAIN_TEXT" value="25" />
         </counts>
@@ -52,7 +59,7 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="Groovy" value="128" />
-          <entry key="JAVA" value="17969" />
+          <entry key="JAVA" value="18518" />
           <entry key="PLAIN_TEXT" value="248" />
           <entry key="RegExp" value="1" />
         </counts>
@@ -61,11 +68,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="180">
+              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -73,23 +80,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Course2/Week2/Part1/GladLib/GladLib.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3915">
+            <state relative-caret-position="480">
               <caret line="262" selection-start-line="262" selection-end-line="262" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Course2/Week2/Part2/CodonCount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="40" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="40" />
+            <state relative-caret-position="228">
+              <caret line="58" column="24" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="24" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#156#157#0" expanded="true" />
                 <element signature="e#215#216#0" expanded="true" />
-                <element signature="e#825#826#0" expanded="true" />
-                <element signature="e#856#857#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Course2/Week1/Part2_BreakingCaesarCipher/CommonWords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="14" column="17" selection-start-line="14" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -600,8 +615,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Course2/Week2/Part1/GladLib/data/animal.txt" />
         <option value="$PROJECT_DIR$/src/main/java/Course2/Week2/Part1/GladLib/data/adjective.txt" />
         <option value="$PROJECT_DIR$/src/main/java/Course2/Week2/Part1/GladLib/GladLib.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Course2/Week2/Part2/CodonCount.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Course2/Week2/Part2/CodonCount.java" />
       </list>
     </option>
   </component>
@@ -644,6 +659,19 @@
             <path>
               <item name="CourseraJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="CourseraJava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ReferenceData" type="462c0819:PsiDirectoryNode" />
+              <item name="Course2Week2MadLibs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CourseraJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CourseraJava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ReferenceData" type="462c0819:PsiDirectoryNode" />
+              <item name="Course2Week2MadLibs" type="462c0819:PsiDirectoryNode" />
+              <item name="ProgrammingImprovingGladLibsData" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CourseraJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CourseraJava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -666,6 +694,25 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Course2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CourseraJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CourseraJava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Course2" type="462c0819:PsiDirectoryNode" />
+              <item name="Week1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CourseraJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CourseraJava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Course2" type="462c0819:PsiDirectoryNode" />
+              <item name="Week1" type="462c0819:PsiDirectoryNode" />
+              <item name="Part2_BreakingCaesarCipher" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CourseraJava" type="b2602c69:ProjectViewProjectNode" />
@@ -706,7 +753,7 @@
     <property name="SearchEverywhereHistoryKey" value="stringbui&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java&#10;isLetter&#9;null&#9;null&#10;week2&#9;FILE&#9;file:///Users/david.lamp/Documents/Developer/Coursera Intro to Java/IntelliJProjects/CourseraJava/src/main/java/Course1/Week3/Part1/Week2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562647586209" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562685582186" />
     <property name="last.edited.regexp" value="word!-.&quot;!?" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -782,7 +829,7 @@
       <workItem from="1561569898996" duration="19000" />
       <workItem from="1562542302746" duration="3366000" />
       <workItem from="1562645780543" duration="941000" />
-      <workItem from="1562646744383" duration="841000" />
+      <workItem from="1562646744383" duration="3195000" />
     </task>
     <task id="LOCAL-00001" summary="Ceaser Cipher Progress">
       <created>1557807193910</created>
@@ -795,7 +842,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76901000" />
+    <option name="totallyTimeSpent" value="79255000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -824,7 +871,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32941177" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32513368" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.61497325" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32941177" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
@@ -1105,13 +1152,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Course2/Week1/Part2_BreakingCaesarCipher/CommonWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-31">
-          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/Random.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-578">
@@ -1130,13 +1170,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Course2/Week2/Part1/GladLib/GladLib.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3915">
-          <caret line="262" selection-start-line="262" selection-end-line="262" />
         </state>
       </provider>
     </entry>
@@ -1182,23 +1215,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Course2/Week2/Part2/CodonCount.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="40" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="40" />
-          <folding>
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#825#826#0" expanded="true" />
-            <element signature="e#856#857#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Course2/Week1/Part2_BreakingCaesarCipher/CommonWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state relative-caret-position="81">
+          <caret line="14" column="17" selection-start-line="14" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Course2/Week2/Part1/GladLib/GladLib.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="262" selection-start-line="262" selection-end-line="262" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Course2/Week2/Part2/CodonCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="58" column="24" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
