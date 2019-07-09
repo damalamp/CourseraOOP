@@ -1,3 +1,5 @@
+package Course2.Week2.Part1.GladLib;
+
 import edu.duke.*;
 import java.util.*;
 
@@ -9,18 +11,29 @@ public class GladLib {
 	private ArrayList<String> nameList;
 	private ArrayList<String> animalList;
 	private ArrayList<String> timeList;
-	
+	private ArrayList<String> verbList;
+	private ArrayList<String> fruitList;
+	private ArrayList<String> usedWords = new ArrayList<>();
+
+	public int count;
+	public int loopCount;
+	String selectedWord;
 	private Random myRandom;
 	
 	private static String dataSourceURL = "http://dukelearntoprogram.com/course3/data";
-	private static String dataSourceDirectory = "data";
-	
+	private static String dataSourceDirectory = "/Users/david.lamp/Documents/Developer/Coursera Intro to Java/IntelliJProjects/CourseraJava/src/main/java/Course2/Week2/Part1/GladLib/data";
+
+
 	public GladLib(){
+		count = 0;
+		//usedWords.clear();
 		initializeFromSource(dataSourceDirectory);
 		myRandom = new Random();
 	}
 	
 	public GladLib(String source){
+		count = 0;
+		//usedWords.clear();
 		initializeFromSource(source);
 		myRandom = new Random();
 	}
@@ -32,7 +45,9 @@ public class GladLib {
 		countryList = readIt(source+"/country.txt");
 		nameList = readIt(source+"/name.txt");		
 		animalList = readIt(source+"/animal.txt");
-		timeList = readIt(source+"/timeframe.txt");		
+		timeList = readIt(source+"/timeframe.txt");
+		verbList = readIt(source+"/verb.txt");
+		fruitList = readIt(source+"/fruit.txt");
 	}
 	
 	private String randomFrom(ArrayList<String> source){
@@ -41,29 +56,140 @@ public class GladLib {
 	}
 	
 	private String getSubstitute(String label) {
+		count++;
 		if (label.equals("country")) {
-			return randomFrom(countryList);
+			selectedWord = randomFrom(countryList);
+			while(usedWords.contains(selectedWord) && loopCount < 10){
+				loopCount++;
+				selectedWord = randomFrom(countryList);
+			}
+			if (loopCount < 10){
+				loopCount = 0;
+				usedWords.add(selectedWord);
+				return selectedWord;
+			} else {
+				loopCount = 0;
+				return "**UNKNOWN**";
+			}
 		}
-		if (label.equals("color")){
-			return randomFrom(colorList);
+		if (label.equals("color")) {
+			selectedWord = randomFrom(colorList);
+			while(usedWords.contains(selectedWord) && loopCount < 10){
+				loopCount++;
+				selectedWord = randomFrom(colorList);
+			}
+			if (loopCount < 10){
+				usedWords.add(selectedWord);
+				return selectedWord;
+			} else {
+				return "**UNKNOWN**";
+			}
 		}
-		if (label.equals("noun")){
-			return randomFrom(nounList);
+		if (label.equals("noun")) {
+			selectedWord = randomFrom(nounList);
+			while(usedWords.contains(selectedWord) && loopCount < 10){
+				loopCount++;
+				selectedWord = randomFrom(nounList);
+			}
+			if (loopCount < 10){
+				usedWords.add(selectedWord);
+				return selectedWord;
+			} else {
+				return "**UNKNOWN**";
+			}
 		}
-		if (label.equals("name")){
-			return randomFrom(nameList);
+		if (label.equals("name")) {
+			selectedWord = randomFrom(nameList);
+			while(usedWords.contains(selectedWord) && loopCount < 10){
+				loopCount++;
+				selectedWord = randomFrom(nameList);
+			}
+			if (loopCount < 10){
+				usedWords.add(selectedWord);
+				return selectedWord;
+			} else {
+				return "**UNKNOWN**";
+			}
 		}
-		if (label.equals("adjective")){
-			return randomFrom(adjectiveList);
+		if (label.equals("adjective")) {
+			selectedWord = randomFrom(adjectiveList);
+			while(usedWords.contains(selectedWord) && loopCount < 10){
+				loopCount++;
+				selectedWord = randomFrom(adjectiveList);
+			}
+			if (loopCount < 10){
+				usedWords.add(selectedWord);
+				return selectedWord;
+			} else {
+				return "**UNKNOWN**";
+			}
 		}
-		if (label.equals("animal")){
-			return randomFrom(animalList);
+		if (label.equals("animal")) {
+			selectedWord = randomFrom(animalList);
+			while(usedWords.contains(selectedWord) && loopCount < 10){
+				loopCount++;
+				selectedWord = randomFrom(animalList);
+			}
+			if (loopCount < 10){
+				usedWords.add(selectedWord);
+				return selectedWord;
+			} else {
+				return "**UNKNOWN**";
+			}
 		}
-		if (label.equals("timeframe")){
-			return randomFrom(timeList);
+		if (label.equals("timeframe")) {
+			selectedWord = randomFrom(timeList);
+			while(usedWords.contains(selectedWord) && loopCount < 10){
+				loopCount++;
+				selectedWord = randomFrom(timeList);
+			}
+			if (loopCount < 10){
+				usedWords.add(selectedWord);
+				return selectedWord;
+			} else {
+				return "**UNKNOWN**";
+			}
 		}
-		if (label.equals("number")){
-			return ""+myRandom.nextInt(50)+5;
+		if (label.equals("number")) {
+			selectedWord = ""+myRandom.nextInt(50)+5;
+			while(usedWords.contains(selectedWord) && loopCount < 10){
+				loopCount++;
+				selectedWord = ""+myRandom.nextInt(50)+5;;
+			}
+			if (loopCount < 10){
+				return selectedWord;
+			} else {
+				return "**UNKNOWN**";
+			}
+		}
+		if (label.equals("verb")) {
+			selectedWord = randomFrom(verbList);
+			while(usedWords.contains(selectedWord) && loopCount < 10){
+				loopCount++;
+				selectedWord = randomFrom(verbList);
+			}
+			if (loopCount < 10){
+				usedWords.add(selectedWord);
+				return selectedWord;
+			} else {
+				return "**UNKNOWN**";
+			}
+		}
+		if (label.equals("fruit")) {
+			selectedWord = randomFrom(fruitList);
+			while(usedWords.contains(selectedWord) && loopCount < 10){
+				loopCount++;
+				selectedWord = randomFrom(fruitList);
+			}
+			if (loopCount < 10){
+				usedWords.add(selectedWord);
+				return selectedWord;
+			} else {
+				return "**UNKNOWN**";
+			}
+		}
+		if (label.equals("fruit")){
+			return randomFrom(fruitList);
 		}
 		return "**UNKNOWN**";
 	}
@@ -128,10 +254,9 @@ public class GladLib {
 	
 	public void makeStory(){
 	    System.out.println("\n");
-		String story = fromTemplate("data/madtemplate.txt");
+		String story = fromTemplate(dataSourceDirectory + "/madtemplate2.txt");
 		printOut(story, 60);
+		System.out.println("\nReplaced this many words: ");
+		printOut(Integer.toString(usedWords.size()),60);
 	}
-	
-
-
 }

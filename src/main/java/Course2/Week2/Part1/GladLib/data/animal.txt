@@ -1,7 +1,7 @@
 polar bear
-fox
-lion
 tiger
-pangolin
-armadillo
-horse
+lion
+ostrich
+dog
+hippopotamus
+wombat

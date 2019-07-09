@@ -48,8 +48,10 @@ public class WordFrequencies {
         Iterator i = myFreqs.iterator();
         int max = 0;
         while (i.hasNext()){
-            if (i.max =
+            if (i.equals(0))
+                return 0;
         }
+        return 0;
     }
 
     public static void tester(){
