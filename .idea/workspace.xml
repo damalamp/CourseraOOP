@@ -2,148 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b80c1159-0e47-4599-9e46-6194b2e4a362" name="Default Changelist" comment="Ceaser Cipher Progress">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Course2/Week2/Part1/WordFrequencies.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Course2/Week2/Part1/WordFrequencies.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/distributions/CourseraJava-1.0-SNAPSHOT.tar" beforeDir="false" afterPath="$PROJECT_DIR$/build/distributions/CourseraJava-1.0-SNAPSHOT.tar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/distributions/CourseraJava-1.0-SNAPSHOT.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/distributions/CourseraJava-1.0-SNAPSHOT.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/CourseraJava-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/CourseraJava-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week1/hello/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week1/hello/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week1/hello/HelloWorld.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week1/hello/HelloWorld.ctxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week1/hello/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week1/hello/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week1/hello/README.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week1/hello/README.TXT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week1/hello/hello.zip" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week1/hello/hello.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week1/hello/hello_unicode.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week1/hello/hello_unicode.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week1/hello/package.bluej" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week1/hello/package.bluej" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/GitHubOutputForFinalQuiz" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/GitHubOutputForFinalQuiz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/Part1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/Part1.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/Part1.ctxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/Part1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/Part1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/Part2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/Part2.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/Part2.ctxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/Part2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/Part2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/Part2.textClipping" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/Part2.textClipping" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/Part3.class" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/Part3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/Part3.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/Part3.ctxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/Part3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/Part3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/Part4.class" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/Part4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/Part4.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/Part4.ctxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/Part4.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/Part4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/README.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/README.TXT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/package.bluej" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsFirstAssignments/package.bluej" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/Axl2p.fa" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/Axl2p.fa" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/DebuggingWeek3.class" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/DebuggingWeek3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/DebuggingWeek3.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/DebuggingWeek3.ctxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/DebuggingWeek3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/DebuggingWeek3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/Part1TagFinder" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/Part1TagFinder" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/Part1TagFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/Part1TagFinder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/Part1TagFinder.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/Part1TagFinder.ctxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/Part1TagFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/Part1TagFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/Part2StringCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/Part2StringCounter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/Part2StringCounter.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/Part2StringCounter.ctxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/Part2StringCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/Part2StringCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/Part3GeneCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/Part3GeneCounter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/Part3GeneCounter.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/Part3GeneCounter.ctxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/Part3GeneCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/Part3GeneCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/StringsThirdAssignment.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/StringsThirdAssignment.ctxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/StringsThirdAssignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/StringsThirdAssignment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/TagFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/TagFinder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/TagFinder.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/TagFinder.ctxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/brca1.fa" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/brca1.fa" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/brca1line.fa" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/brca1line.fa" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/mansmall.fa" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/mansmall.fa" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/package.bluej" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsSecondAssignment/package.bluej" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/GRch38dnapart.fa" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/GRch38dnapart.fa" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/MyOutputForFinalQuiz" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/MyOutputForFinalQuiz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/Part1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/Part1.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/Part1.ctxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/Part1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/Part1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/Part1_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/Part1_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/QuickSanityCheckForQuiz.class" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/QuickSanityCheckForQuiz.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/QuickSanityCheckForQuiz.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/QuickSanityCheckForQuiz.ctxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/QuickSanityCheckForQuiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/QuickSanityCheckForQuiz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/README.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/README.TXT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/StoringAllGenes.class" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/StoringAllGenes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/StoringAllGenes.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/StoringAllGenes.ctxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/StoringAllGenes.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/StoringAllGenes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/brca1line.fa" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/brca1line.fa" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/package.bluej" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/StringsThirdAssignment/package.bluej" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/Week1 Shape’s Perimeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/Week1 Shape’s Perimeter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/Week3FinalQuiz.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/Week3FinalQuiz.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/dna.zip" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/dna.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/dna/Axl2p.fa" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/dna/Axl2p.fa" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/dna/GRch38dnapart.fa" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/dna/GRch38dnapart.fa" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/dna/brca1.fa" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/dna/brca1.fa" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/dna/brca1line.fa" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/dna/brca1line.fa" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/dna/mansmall.fa" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/dna/mansmall.fa" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/perimeter_quiz/1by1Square.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/perimeter_quiz/1by1Square.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/perimeter_quiz/PerimeterAssignmentRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/perimeter_quiz/PerimeterAssignmentRunner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/perimeter_quiz/PerimeterAssignmentRunner.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/perimeter_quiz/PerimeterAssignmentRunner.ctxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/perimeter_quiz/PerimeterAssignmentRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/perimeter_quiz/PerimeterAssignmentRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/perimeter_quiz/README.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/perimeter_quiz/README.TXT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/perimeter_quiz/datatest1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/perimeter_quiz/datatest1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/perimeter_quiz/datatest2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/perimeter_quiz/datatest2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/perimeter_quiz/datatest3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/perimeter_quiz/datatest3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/perimeter_quiz/datatest4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/perimeter_quiz/datatest4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/perimeter_quiz/datatest5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/perimeter_quiz/datatest5.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/perimeter_quiz/datatest6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/perimeter_quiz/datatest6.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/perimeter_quiz/example1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/perimeter_quiz/example1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/perimeter_quiz/example2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/perimeter_quiz/example2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/perimeter_quiz/example3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/perimeter_quiz/example3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/perimeter_quiz/example4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/perimeter_quiz/example4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week2/perimeter_quiz/package.bluej" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week2/perimeter_quiz/package.bluej" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week3/exportdata.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week3/exportdata.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week3/exports.zip" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week3/exports.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week3/exportsPseudo/WhichCountriesExport.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week3/exportsPseudo/WhichCountriesExport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week3/exportsPseudo/exportdata.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week3/exportsPseudo/exportdata.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week3/exportsPseudo/exportsmall.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week3/exportsPseudo/exportsmall.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week3/exportsPseudo/package.bluej" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week3/exportsPseudo/package.bluej" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week3/exportsmall.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week3/exportsmall.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week3/firstCSV/FirstCSVExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week3/firstCSV/FirstCSVExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week3/firstCSV/foods.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week3/firstCSV/foods.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week3/firstCSV/package.bluej" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week3/firstCSV/package.bluej" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week3/foods.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week3/foods.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Course1Week3/package.bluej" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Course1Week3/package.bluej" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Coursera-Java Problem Solutions/Modifying Images - Exercise 2 pt 1" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Coursera-Java Problem Solutions/Modifying Images - Exercise 2 pt 1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Coursera-Java Problem Solutions/Modifying Images - Exercise 2 pt 2" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Coursera-Java Problem Solutions/Modifying Images - Exercise 2 pt 2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Coursera-Java Problem Solutions/Modifying Images - Exercise 2 pt 3" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Coursera-Java Problem Solutions/Modifying Images - Exercise 2 pt 3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Coursera-Java Problem Solutions/Modifying Images - Exercise 2 pt 4" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Coursera-Java Problem Solutions/Modifying Images - Exercise 2 pt 4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Coursera-Java Problem Solutions/Modifying Images - Exercise 2 pt 5" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Coursera-Java Problem Solutions/Modifying Images - Exercise 2 pt 5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/StringsThirdAssignment/Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/StringsThirdAssignment/Part1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/StringsThirdAssignment/package.bluej" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/StringsThirdAssignment/package.bluej" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Week3/Course1Week3/README.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Week3/Course1Week3/README.TXT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Week3/Course1Week3/WhichCountriesExport.class" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Week3/Course1Week3/WhichCountriesExport.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Week3/Course1Week3/WhichCountriesExport.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Week3/Course1Week3/WhichCountriesExport.ctxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Week3/Course1Week3/WhichCountriesExport.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Week3/Course1Week3/WhichCountriesExport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Week3/Course1Week3/doc/WhichCountriesExport.html" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Week3/Course1Week3/doc/WhichCountriesExport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Week3/Course1Week3/doc/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Week3/Course1Week3/doc/allclasses-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Week3/Course1Week3/doc/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Week3/Course1Week3/doc/allclasses-noframe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Week3/Course1Week3/doc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Week3/Course1Week3/doc/constant-values.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Week3/Course1Week3/doc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Week3/Course1Week3/doc/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Week3/Course1Week3/doc/logfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Week3/Course1Week3/doc/logfile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Week3/Course1Week3/doc/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Week3/Course1Week3/doc/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Week3/Course1Week3/doc/package-list" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Week3/Course1Week3/doc/package-list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Week3/Course1Week3/doc/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Week3/Course1Week3/doc/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Week3/Course1Week3/doc/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Week3/Course1Week3/doc/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Week3/Course1Week3/doc/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Week3/Course1Week3/doc/stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Week3/Course1Week3/package.bluej" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Week3/Course1Week3/package.bluej" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/Week3/StringsFirstAssignments/package.bluej" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/Week3/StringsFirstAssignments/package.bluej" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/WhichCountriesExport.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/WhichCountriesExport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/tagFinder2/Part1TagFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/tagFinder2/Part1TagFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course0_htmlCSS/tagFinder2/package.bluej" beforeDir="false" afterPath="$PROJECT_DIR$/ReferenceData/Course0_htmlCSS/tagFinder2/package.bluej" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course2/Week2/Part1/GladLib/GladLib.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Course2/Week2/Part1/GladLib/GladLib.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course2/Week2/Part1/GladLib/data/adjective.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Course2/Week2/Part1/GladLib/data/adjective.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course2/Week2/Part1/GladLib/data/animal.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Course2/Week2/Part1/GladLib/data/animal.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Course2/Week2/Part1/WordFrequencies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Course2/Week2/Part1/WordFrequencies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Course2/Week2/Part2/CodonCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Course2/Week2/Part2/CodonCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -164,24 +24,26 @@
     <session id="-1151154865">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="5" />
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="59" />
+          <entry key="JAVA" value="61" />
           <entry key="JavaScript" value="1" />
           <entry key="PLAIN_TEXT" value="25" />
         </counts>
@@ -190,7 +52,7 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="Groovy" value="128" />
-          <entry key="JAVA" value="17403" />
+          <entry key="JAVA" value="17969" />
           <entry key="PLAIN_TEXT" value="248" />
           <entry key="RegExp" value="1" />
         </counts>
@@ -199,20 +61,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            <state relative-caret-position="225">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Course2/Week2/Part1/GladLib/GladLib.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="238" column="24" selection-start-line="238" selection-start-column="24" selection-end-line="238" selection-end-column="24" />
+            <state relative-caret-position="3915">
+              <caret line="262" selection-start-line="262" selection-end-line="262" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Course2/Week2/Part2/CodonCount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="40" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="40" />
+              <folding>
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
+                <element signature="e#825#826#0" expanded="true" />
+                <element signature="e#856#857#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Course2/Week2/Part1/WordFrequencies.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -220,7 +109,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
+            <state relative-caret-position="3780">
               <caret line="280" column="15" selection-start-line="280" selection-start-column="15" selection-end-line="280" selection-end-column="15" />
               <folding>
                 <element signature="e#10361#10362#0" expanded="true" />
@@ -234,7 +123,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Course2/Week2/Part1/GladLib/data/adjective.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -274,6 +163,7 @@
       <find>myFreqs</find>
       <find>source</find>
       <find>print</find>
+      <find>WordFrequencies</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -707,10 +597,11 @@
         <option value="$PROJECT_DIR$/ReferenceData/Course2Week1CaesarCipher/errors.txt" />
         <option value="$PROJECT_DIR$/ReferenceData/Course2Week1CaesarCipher/ProgrammingBreakingCaesarData/DavidsTestWords" />
         <option value="$PROJECT_DIR$/src/main/java/Course2/Week2/Part1/WordFrequencies.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/Course2/Week2/Part1/GladLib/data/animal.txt" />
         <option value="$PROJECT_DIR$/src/main/java/Course2/Week2/Part1/GladLib/data/adjective.txt" />
         <option value="$PROJECT_DIR$/src/main/java/Course2/Week2/Part1/GladLib/GladLib.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Course2/Week2/Part2/CodonCount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
       </list>
     </option>
   </component>
@@ -720,8 +611,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="413" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
   </component>
@@ -783,7 +674,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Course2" type="462c0819:PsiDirectoryNode" />
-              <item name="Part1" type="462c0819:PsiDirectoryNode" />
+              <item name="Week2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CourseraJava" type="b2602c69:ProjectViewProjectNode" />
@@ -792,19 +683,8 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Course2" type="462c0819:PsiDirectoryNode" />
+              <item name="Week2" type="462c0819:PsiDirectoryNode" />
               <item name="Part1" type="462c0819:PsiDirectoryNode" />
-              <item name="GladLib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CourseraJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CourseraJava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Course2" type="462c0819:PsiDirectoryNode" />
-              <item name="Part1" type="462c0819:PsiDirectoryNode" />
-              <item name="GladLib" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CourseraJava" type="b2602c69:ProjectViewProjectNode" />
@@ -826,7 +706,7 @@
     <property name="SearchEverywhereHistoryKey" value="stringbui&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java&#10;isLetter&#9;null&#9;null&#10;week2&#9;FILE&#9;file:///Users/david.lamp/Documents/Developer/Coursera Intro to Java/IntelliJProjects/CourseraJava/src/main/java/Course1/Week3/Part1/Week2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562598365239" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562647586209" />
     <property name="last.edited.regexp" value="word!-.&quot;!?" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -901,6 +781,8 @@
       <workItem from="1561334450109" duration="5686000" />
       <workItem from="1561569898996" duration="19000" />
       <workItem from="1562542302746" duration="3366000" />
+      <workItem from="1562645780543" duration="941000" />
+      <workItem from="1562646744383" duration="841000" />
     </task>
     <task id="LOCAL-00001" summary="Ceaser Cipher Progress">
       <created>1557807193910</created>
@@ -913,7 +795,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75119000" />
+    <option name="totallyTimeSpent" value="76901000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -925,9 +807,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="413" width="1680" height="1027" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1965812" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2014652" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1002,13 +884,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Ceaser Cipher Progress" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Course1/Week3/Part1/Hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gradlew">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="466">
@@ -1251,16 +1126,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Course2/Week2/Part1/WordFrequencies.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Course2/Week1/Part1_ImplCaesarCipher/WordPlay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -1268,10 +1133,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Course2/Week2/Part1/GladLib/GladLib.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        <state relative-caret-position="3915">
+          <caret line="262" selection-start-line="262" selection-end-line="262" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3780">
+          <caret line="280" column="15" selection-start-line="280" selection-start-column="15" selection-end-line="280" selection-end-column="15" />
+          <folding>
+            <element signature="e#10361#10362#0" expanded="true" />
+            <element signature="e#10388#10389#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Course2/Week2/Part1/GladLib/data/adjective.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -1289,28 +1172,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Course2/Week2/Part1/GladLib/data/adjective.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Course2/Week2/Part1/WordFrequencies.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="280" column="15" selection-start-line="280" selection-start-column="15" selection-end-line="280" selection-end-column="15" />
+        <state relative-caret-position="150">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
           <folding>
-            <element signature="e#10361#10362#0" expanded="true" />
-            <element signature="e#10388#10389#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Course2/Week2/Part1/GladLib/GladLib.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Course2/Week2/Part2/CodonCount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="238" column="24" selection-start-line="238" selection-start-column="24" selection-end-line="238" selection-end-column="24" />
+        <state relative-caret-position="390">
+          <caret line="26" column="40" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="40" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
+            <element signature="e#856#857#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
